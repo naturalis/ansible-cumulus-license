@@ -29,9 +29,10 @@ None.
 
 ## Example Playbook
 
-- hosts: switches
-  roles:
-   - ansible-role-cumulus-license
+
+    - hosts: switches
+      roles:
+        - ansible-role-cumulus-license
 
 ## License
 
