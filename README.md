@@ -32,7 +32,7 @@ None.
 
     - hosts: switches
       roles:
-        - ansible-role-cumulus-license
+        - ansible-cumulus-license
 
 ## License
 
